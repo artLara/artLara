@@ -1,4 +1,12 @@
-### Hi there 👋
+# Welcome to my profile 👋
+
+## Projects
+
+|[![bannerLSM3D](https://github.com/artLara/artLara/assets/63621038/79c4e61a-add0-483a-b13e-9770b0ee86b5)](https://github.com/artLara/LSM-CNN3D)|[![ReactJS and Redux Tutorial with real-life examples](https://img.youtube.com/vi/raKV5Rb8oOM/mqdefault.jpg)](https://www.creative-tim.com/courses "ReactJS and Redux Tutorial with real-life examples")|[![Responsive Admin Template using Light Bootstrap Dashboard](https://img.youtube.com/vi/vt5hemH8I9w/mqdefault.jpg)](https://www.creative-tim.com/courses "Responsive Admin Template using Light Bootstrap Dashboard")
+|:--:|:--:|:--:|
+|Dynamic signs classification using CNN-3D|ReactJS and Redux Tutorial with real-life examples|Responsive Admin Template using Light Bootstrap Dashboard|
+
+
 
 <!--
 **artLara/artLara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
