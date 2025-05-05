@@ -2,9 +2,9 @@
 
 ## Projects
 
-|[![bannerLSM3D](https://github.com/artLara/artLara/assets/63621038/79c4e61a-add0-483a-b13e-9770b0ee86b5)](https://github.com/artLara/LSM-CNN3D)|[![android-icon](https://github.com/artLara/artLara/assets/63621038/7a790e8d-6b0c-4fda-a68d-06923d381c91)](https://github.com/artLara/LSM-Estudiantes)|[![graph](https://github.com/artLara/artLara/assets/63621038/df81e327-4802-48e5-b233-0b79181dec3c)](https://github.com/artLara/MessagePostprocessingService)
-|:--:|:--:|:--:|
-|Dynamic signs classification of MSL using CNN-3D|TechonoHand: Android App for study MSL|Sentence ortografic correction|
+|[![bannerLSM3D](https://github.com/artLara/artLara/assets/63621038/79c4e61a-add0-483a-b13e-9770b0ee86b5)](https://github.com/artLara/LSM-CNN3D)|[![android-icon](https://github.com/artLara/artLara/assets/63621038/7a790e8d-6b0c-4fda-a68d-06923d381c91)](https://github.com/artLara/LSM-Estudiantes)|[![graph](https://github.com/artLara/artLara/assets/63621038/df81e327-4802-48e5-b233-0b79181dec3c)](https://github.com/artLara/MessagePostprocessingService)|[![graph](https://github.com/user-attachments/assets/30e8e082-6d41-4708-a046-65471863adb9)](https://github.com/artLara/pasat)
+|:--:|:--:|:--:|:--:|
+|Dynamic signs classification of MSL using CNN-3D|TechonoHand: Android App for study MSL|Sentence ortografic correction|Software de aplicación de pruebas de evaluación neuropsicológica y autoevaluación
 
 
 
